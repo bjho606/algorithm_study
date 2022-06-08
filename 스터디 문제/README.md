@@ -9,5 +9,5 @@
 | 1주차 | [백준 14890](https://www.acmicpc.net/problem/14890) | 경사로 | G3
 | 2주차 | [백준 16236](https://www.acmicpc.net/problem/16236) | 아기 상어 | G3
 | 3주차 | [백준 17822](https://www.acmicpc.net/problem/17822) | 원판 돌리기 | G3
-| 4주차 |  |  |
+| 4주차 | [백준 3190](https://www.acmicpc.net/problem/3190) | 뱀 | G4
 | 5주차 |  |  |
