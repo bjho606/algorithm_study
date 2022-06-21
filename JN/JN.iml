@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/D0517" isTestSource="false" packagePrefix="BrouteForce_Easy" />
+      <sourceFolder url="file://$MODULE_DIR$/D0518" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/D0519" isTestSource="false" packagePrefix="BrouteForce_Easy" />
+      <sourceFolder url="file://$MODULE_DIR$/D0520" isTestSource="false" packagePrefix="BrouteForce_Easy" />
+      <sourceFolder url="file://$MODULE_DIR$/D0523" isTestSource="false" packagePrefix="BrouteForce_Easy" />
+      <sourceFolder url="file://$MODULE_DIR$/D0524" isTestSource="false" packagePrefix="BrouteForce_Easy" />
+      <sourceFolder url="file://$MODULE_DIR$/D0525" isTestSource="false" packagePrefix="BrouteForce_Easy" />
+      <sourceFolder url="file://$MODULE_DIR$/D0526" isTestSource="false" packagePrefix="BrouteForce_Easy" />
+      <sourceFolder url="file://$MODULE_DIR$/D0530" isTestSource="false" packagePrefix="SWEA" />
+      <sourceFolder url="file://$MODULE_DIR$/D0602" isTestSource="false" packagePrefix="BrouteForce_Easy" />
+      <sourceFolder url="file://$MODULE_DIR$/D0603" isTestSource="false" packagePrefix="SWEA" />
+      <sourceFolder url="file://$MODULE_DIR$/D0608" isTestSource="false" packagePrefix="BrouteForce_Easy" />
+      <sourceFolder url="file://$MODULE_DIR$/D0609" isTestSource="false" packagePrefix="BrouteForce_Easy" />
+      <sourceFolder url="file://$MODULE_DIR$/D0610" isTestSource="false" packagePrefix="BrouteForce_Easy" />
+      <sourceFolder url="file://$MODULE_DIR$/D0611" isTestSource="false" packagePrefix="BrouteForce_Easy" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
