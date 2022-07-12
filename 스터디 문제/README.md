@@ -12,4 +12,4 @@
 | 4주차 | [백준 3190](https://www.acmicpc.net/problem/3190) | 뱀 | G4
 | 5주차 | [백준 14499](https://www.acmicpc.net/problem/14499) | 주사위 굴리기 | G4
 | 6주차 | [백준 14888](https://www.acmicpc.net/problem/14888) | 연산자 끼워넣기 | S1
-| 7주차 | [백준 14889](https://www.acmicpc.net/problem/14889) | 스타트와 링크 | S2
+| 7주차 | [백준 14889](https://www.acmicpc.net/problem/14889), [백준 15683](https://www.acmicpc.net/problem/15683) | 스타트와 링크, 감시 | S2, G4
