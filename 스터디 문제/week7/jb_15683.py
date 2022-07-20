@@ -23,14 +23,14 @@ direction = {
     5: [[0,1,2,3]]
 }
 
-def dfs(depth, board):
-    global min_blind
-    temp = copy.deepcopy(board)
+# def dfs(depth, board):
+#     global min_blind
+#     temp = copy.deepcopy(board)
 
-    if depth == len(cctv):
-        count = temp.count(0)
-        min_blind = min(min_blind, count)
-        return
+#     if depth == len(cctv):
+#         count = temp.count(0)
+#         min_blind = min(min_blind, count)
+#         return
 
     # x, y, cctv_type = cctv[depth]
     # for dir in direction[cctv_type]:
