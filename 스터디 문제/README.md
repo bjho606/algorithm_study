@@ -21,3 +21,4 @@
 | 7주차 | [백준 14889](https://www.acmicpc.net/problem/14889), [백준 15683](https://www.acmicpc.net/problem/15683) | 스타트와 링크, 감시 | S2, G4
 | 8주차 | [백준 15685](https://www.acmicpc.net/problem/15685) | 드래곤 커브 | G4
 | 9주차 | [백준 2606](https://www.acmicpc.net/problem/2606), [백준 2644](https://www.acmicpc.net/problem/2644) | 바이러스, 촌수계산 | S3, S2
+| 10주차 | [백준 1697](https://www.acmicpc.net/problem/1697), [백준 2468](https://www.acmicpc.net/problem/2468), [백준 9205](https://www.acmicpc.net/problem/9205) | 숨바꼭질, 안전 영역, 맥주 마시면서 걸어가기 | S1, S1, S1
