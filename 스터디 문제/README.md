@@ -24,3 +24,4 @@
 | 10주차 | [백준 1697](https://www.acmicpc.net/problem/1697), [백준 2468](https://www.acmicpc.net/problem/2468), [백준 9205](https://www.acmicpc.net/problem/9205) | 숨바꼭질, 안전 영역, 맥주 마시면서 걸어가기 | S1, S1, S1
 | 11주차 | [백준 7569](https://www.acmicpc.net/problem/7569), [백준 5014](https://www.acmicpc.net/problem/5014) | 토마토, 스타트링크 | G5, G5
 | 12주차 | [백준 2573](https://www.acmicpc.net/problem/2573), [백준 14503](https://www.acmicpc.net/problem/14503), [백준 14501](https://www.acmicpc.net/problem/14501), [백준 14500](https://www.acmicpc.net/problem/14500) | 빙산, 로봇 청소기, 퇴사, 테트로미노 | G4, G5 S3, G4
+| 13주차 | [백준 15686](https://www.acmicpc.net/problem/15686), [백준 15683](https://www.acmicpc.net/problem/15683) | 치킨 배달, 감시 | G5, G4
