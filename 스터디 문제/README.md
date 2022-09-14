@@ -9,6 +9,9 @@
 ## 백준 - 삼성 SW 역량 테스트 기출 문제
 [기출 문제집 바로가기](https://www.acmicpc.net/workbook/view/1152)
 
+## 백준 - ssafy 알고리즘 연습 문제
+[싸피 문제집 바로가기](https://www.acmicpc.net/group/workbook/7164)
+
 ## 주차별 문제
 | 주차 | 문제 | 문제 이름 | 난이도
 | :--: | :--: | :--: | :--: |
@@ -25,3 +28,4 @@
 | 11주차 | [백준 7569](https://www.acmicpc.net/problem/7569), [백준 5014](https://www.acmicpc.net/problem/5014) | 토마토, 스타트링크 | G5, G5
 | 12주차 | [백준 2573](https://www.acmicpc.net/problem/2573), [백준 14503](https://www.acmicpc.net/problem/14503), [백준 14501](https://www.acmicpc.net/problem/14501), [백준 14500](https://www.acmicpc.net/problem/14500) | 빙산, 로봇 청소기, 퇴사, 테트로미노 | G4, G5 S3, G4
 | 13주차 | [백준 15686](https://www.acmicpc.net/problem/15686), [백준 15683](https://www.acmicpc.net/problem/15683) | 치킨 배달, 감시 | G5, G4
+| 14주차 | 
