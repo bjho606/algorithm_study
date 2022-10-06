@@ -29,4 +29,5 @@
 | 12주차 | [백준 2573](https://www.acmicpc.net/problem/2573), [백준 14503](https://www.acmicpc.net/problem/14503), [백준 14501](https://www.acmicpc.net/problem/14501), [백준 14500](https://www.acmicpc.net/problem/14500) | 빙산, 로봇 청소기, 퇴사, 테트로미노 | G4, G5 S3, G4
 | 13주차 | [백준 15686](https://www.acmicpc.net/problem/15686), [백준 15683](https://www.acmicpc.net/problem/15683) | 치킨 배달, 감시 | G5, G4
 | 14주차 | [백준 1062](https://www.acmicpc.net/problem/1062), [백준 15684](https://www.acmicpc.net/problem/15684) | 가르침, 사다리 조작 | G4, G3
-| 15주차 | |
+| 15주차 | [백준 3184](https://www.acmicpc.net/problem/3184) | 양 | S1
+| 16주차 | [카카오 2022 인턴십 코테](https://school.programmers.co.kr/learn/challenges?tab=all_challenges&page=1&languages=python3&partIds=31236) | 성격 유형 검사하기, 두 큐 합 같게 만들기 | Lv1, Lv2
